@@ -1,0 +1,119 @@
+.BlogPreview{
+    width: 9.9%;
+    height: 100%;
+    border-radius: 17px;
+    overflow: hidden;
+    margin-right: 1rem;
+}
+
+.blog-cover{
+    height: 100%;
+    width: 100%;
+    border-radius: 17px;
+}
+
+.blog-cover img{
+    height: 100%;
+    width: 100%;
+    border-radius: 17px;
+    display: flex;
+    flex-wrap: nowrap;
+    transition: all 0.4s ease-in-out;
+}
+
+.date-cont{
+    width: 100%;
+    height: 20%;
+    display: flex;
+}
+
+.blog-date{
+    margin-top: 1rem;
+    margin-left: 2rem;
+    display: flex;
+    position: relative;
+    bottom: 502%;
+}
+
+.blog-date p{
+    display: flex;
+    align-items: center;
+    height: 25%;
+    padding: 0.2rem 0.75rem;
+    color: white;
+    background: rgba( 0, 0, 0, 0.75 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 15.0px );
+    -webkit-backdrop-filter: blur( 15.0px );
+    border-radius: 17px;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.hashtags-cont{
+    height: 43%;
+    display: flex;
+    align-items: flex-end;
+    padding-left: 2rem;
+    padding-bottom: 0.5rem;
+    position: relative;
+    bottom: 100%;
+}
+
+.blog-hashtag{
+    padding: 0.2rem 0.75rem;
+    margin: 0 0.25rem 0.5rem 0;
+    border-radius: 15px;
+    color: white;
+    background: rgba( 20, 20, 20, 0.70 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 0.0px );
+    -webkit-backdrop-filter: blur( 0.0px );
+    border-radius: 17px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    height: 1.5rem;
+}
+
+.blog-banner{
+    height: 35.53%;
+    width: 100%;
+    border-radius: 17px;
+    background: rgba( 255, 255, 255, 0.45 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 20.0px );
+    -webkit-backdrop-filter: blur( 20.0px );
+    position: relative;
+    bottom: 100%;
+}
+
+.blog-heading{
+    width: 60%;
+    height: 50%;
+    font-size: 28px;
+    font-weight: 500;
+    padding-left: 1.5rem;
+    display: flex;
+    align-items: flex-end;
+    overflow: hidden;
+}
+
+.blog-text{
+    width: 100%;
+    height: 50%;
+    display: flex;
+}
+
+.blog-text p{
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    padding-bottom: 0.3rem;
+    display: flex;
+    align-items: flex-end;
+}
+
+.BlogPreview:hover .blog-cover img{
+    transform: scale(1.05);
+}

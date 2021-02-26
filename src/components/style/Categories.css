@@ -1,0 +1,59 @@
+.categories{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 0.7rem;
+}
+
+.card{
+     display: flex;
+}
+
+.category{
+    height: 4rem;
+    width: 4rem;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+    border-radius: 100px;
+    background-color: white;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+}
+
+.text-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.text{
+    width: 6rem;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: grey;
+}
+
+.cat1logo{background-image: url("https://i.ibb.co/7CpwQhz/cat1-b.png");}
+.cat2logo{background-image: url("https://i.ibb.co/44HRkqb/cat2-b.png");}
+.cat3logo{background-image: url("https://i.ibb.co/0svx0qv/cat3-b.png");}
+.cat4logo{background-image: url("https://i.ibb.co/CsN8991/cat4-b.png");}
+.cat5logo{background-image: url("https://i.ibb.co/9nh2qYp/cat5-b.png");}
+.cat6logo{background-image: url("https://i.ibb.co/XJXc7dR/cat6-b.png");}
+.cat7logo{background-image: url("https://i.ibb.co/ZV8WzdF/cat7-b.png");}
+.cat8logo{background-image: url("https://i.ibb.co/PzJp8vJ/cat8-b.png");}
+.cat9logo{background-image: url("https://i.ibb.co/WyLpbQP/cat9-b.png");}
+.cat10logo{background-image: url("https://i.ibb.co/yFp5Hzs/cat10-b.png");}
+
+
+.cat1logo:hover{background-image: url("https://i.ibb.co/kmSgg93/telefoane-si-tablete.png");}
+.cat2logo:hover{background-image: url("https://i.ibb.co/F8KD6sd/cat2-c.png");}
+.cat3logo:hover{background-image: url("https://i.ibb.co/4VC1bLJ/cat3-c.png");}
+.cat4logo:hover{background-image: url("https://i.ibb.co/89tLw18/cat4-c.png");}
+.cat5logo:hover{background-image: url("https://i.ibb.co/02Pp9Sv/cat5-c.png");}
+.cat6logo:hover{background-image: url("https://i.ibb.co/8Y70Pnv/cat6-c.png");}
+.cat7logo:hover{background-image: url("https://i.ibb.co/RSwY1LG/cat7-c.png");}
+.cat8logo:hover{background-image: url("https://i.ibb.co/mSKCtpt/cat8-c.png");}
+.cat9logo:hover{background-image: url("https://i.ibb.co/QbcdsBK/cat9-c.png");}
+.cat10logo:hover{background-image: url("https://i.ibb.co/m5t4ZZQ/cat10-c.png");}
+

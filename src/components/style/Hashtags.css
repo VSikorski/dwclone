@@ -1,0 +1,33 @@
+
+.hashtag{
+    display: flex;
+    border-radius: 7px;
+    margin-right: 0.8rem;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.hashtag p{
+    padding: 0.3rem 0.8rem;
+    border-radius: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.regular{
+    background-color: rgb(219, 219, 219);
+    color: rgb(116, 116, 116);
+    font-weight: 400;
+}
+
+.special{
+    background-color: rgb(230, 80, 138);
+    color: white;
+    
+}
+
+.hashtag:hover{
+    filter: drop-shadow(0px 5px 3px rgb(133, 133, 133));
+}

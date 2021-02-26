@@ -1,0 +1,59 @@
+.smart-cont{
+    display: flex;
+}
+
+.smartTrade{
+    background: white;
+    display: flex;
+    padding: 2rem 2.5rem;
+    margin: 1rem 0;
+    border-radius: 17px;
+    width: 50%;
+    transition: all .2s ease-in-out;
+    cursor: pointer;
+}
+
+.smartTrade1{
+    margin-right: 1rem;
+}
+
+.smartTrade2 >  .smart-text > .smart-text-small{
+    width: 75%;
+}
+
+.smart-text-large{
+    padding-bottom: 0.7rem;
+}
+
+.smart-text-large p{
+    margin: 0;
+    font-size: 28px;
+    font-weight: 400;
+    color: rgb(65, 65, 65);
+}
+
+.smart-text-small{
+    width: 65%;
+}
+
+.smart-text-small p{
+    margin: 0;
+    font-size: 14px;
+    color: rgb(155, 155, 155);
+}
+
+.smart-playicon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 5rem;
+}
+
+.PlayArrowIcon{
+    transform: scale(1.6);
+    color: grey;
+}
+
+.smartTrade:hover{
+    filter: drop-shadow(0px 5px 3px rgb(206, 206, 206));
+}

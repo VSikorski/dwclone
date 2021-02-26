@@ -1,0 +1,5 @@
+.Hashtags{
+    display: flex;
+    margin: 0 auto;
+    white-space: nowrap;
+}
