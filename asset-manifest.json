@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/dwclone/static/css/main.80979a5f.chunk.css",
+    "main.js": "/dwclone/static/js/main.606ce536.chunk.js",
+    "main.js.map": "/dwclone/static/js/main.606ce536.chunk.js.map",
+    "runtime-main.js": "/dwclone/static/js/runtime-main.c1920134.js",
+    "runtime-main.js.map": "/dwclone/static/js/runtime-main.c1920134.js.map",
+    "static/css/2.31807554.chunk.css": "/dwclone/static/css/2.31807554.chunk.css",
+    "static/js/2.917fe962.chunk.js": "/dwclone/static/js/2.917fe962.chunk.js",
+    "static/js/2.917fe962.chunk.js.map": "/dwclone/static/js/2.917fe962.chunk.js.map",
+    "static/js/3.718df27c.chunk.js": "/dwclone/static/js/3.718df27c.chunk.js",
+    "static/js/3.718df27c.chunk.js.map": "/dwclone/static/js/3.718df27c.chunk.js.map",
+    "index.html": "/dwclone/index.html",
+    "static/css/2.31807554.chunk.css.map": "/dwclone/static/css/2.31807554.chunk.css.map",
+    "static/css/main.80979a5f.chunk.css.map": "/dwclone/static/css/main.80979a5f.chunk.css.map",
+    "static/js/2.917fe962.chunk.js.LICENSE.txt": "/dwclone/static/js/2.917fe962.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/dwclone/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1920134.js",
+    "static/css/2.31807554.chunk.css",
+    "static/js/2.917fe962.chunk.js",
+    "static/css/main.80979a5f.chunk.css",
+    "static/js/main.606ce536.chunk.js"
+  ]
+}
